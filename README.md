@@ -1,6 +1,9 @@
 # -I--RN_proj_airbnb
 
 
+### 1주차
+![Uploading 스크린샷 2024-03-18 오후 6.08.04.png…]()
+
 1. expo file-based routing
   modal overlay
   navigation
