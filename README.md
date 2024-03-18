@@ -2,7 +2,8 @@
 
 
 ### 1주차
-![Uploading 스크린샷 2024-03-18 오후 6.08.04.png…]()
+<img width="183" alt="스크린샷 2024-03-18 오후 6 08 04" src="https://github.com/mimgggg4444/-I--RN_proj_airbnb/assets/66135779/c3b21066-59b3-498b-b946-4a47c29caa40">
+
 
 1. expo file-based routing
   modal overlay
