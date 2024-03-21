@@ -1,4 +1,4 @@
-# -I--RN_proj_airbnb
+# -I-react native_proj_airbnb
 
 
 ### 1주차
